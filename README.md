@@ -16,7 +16,7 @@
              <p style="font-size:25px;text-align:center;color:yellow">Головним героєм був Мічений — один із таких сталкерів, який втратив пам'ять і намагається на шляху до Зони з'ясувати, що з ним сталося.</p>
              <p style="font-size:25px;text-align:center;color:yellow">Коли гра вийшла на ігровий ринок вона отримала високі оцінки критиків: оглядачі особливо відзначали опрацьований світ гри та захоплюючий геймплей, хоч і вказували на велику кількість технічних проблем та нарікали на невиконані обіцянки розробників. «Тінь Чорнобиля» також виявилася комерційно успішною — по всьому світу було продано понад два мільйони копій гри.</p> 
              <h1 style="color:yellow;text-align:center;font-size:40px">Назва та дати виходу кожної частини сталкеру</h1>
-             <table style="border:1px solid yellow;border-collapse:collapse;">
+             <table style="border:1px solid wite;border-collapse:collapse;">
                 <tr style="background-color:black;color:yellow;">
                    <td>Назва</td>
                     <td>Анонс</td>
